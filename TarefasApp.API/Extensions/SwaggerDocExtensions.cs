@@ -21,7 +21,7 @@ namespace TarefasApp.API.Extensions
                     {
                         Title = "TarefasApp API - Treinamento C# Avançado Formação Arquiteto",
                         Description = "API para controle de tarefas de usuários.",
-                        Version = "1.0",
+                        Version = "2.0",
                         Contact = new OpenApiContact
                         {
                             Name = "COTI Informática",
